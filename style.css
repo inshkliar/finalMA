@@ -52,15 +52,10 @@ body {
     color: #2F4F4F;
     font-weight: 700;
 }
-.individual .moreInfo {
+.individual .moreinfoClass {
     text-align: center;
     font-size: 20px;
     line-height: 23px;
-}
-
-.individual .moreinfoClass {
-    padding: 5px;
-    display: none;
 }
 
 .individual:hover {
