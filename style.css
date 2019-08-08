@@ -48,9 +48,11 @@ body {
     left: -12px;
 }
 
-.individual .name {
+.name {
     color: #2F4F4F;
     font-weight: 700;
+    display: flex;
+    justify-content: center;
 }
 .individual .moreinfoClass {
     text-align: center;
